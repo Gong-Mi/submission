@@ -1,6 +1,6 @@
 {
 	"version": "gongqi",
-	"versionCode": 1,
-	"zipUrl": "https://raw.githubusercontent.com/Gong-Mi/magisk-module-files/main/module.zip",
-	"changelog": "https://raw.githubusercontent.com/Gong-Mi/magisk-module-files/main/README.md"
+	"versionCode": 80,
+	"zipUrl": "https://raw.githubusercontent.com/Gong-Mi/magisk-module-files/zygisk-storage-isolation/module.zip",
+	"changelog": "https://raw.githubusercontent.com/Gong-Mi/magisk-module-files/zygisk-storage-isolation/README.md"
 }
